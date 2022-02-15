@@ -17,6 +17,10 @@ To construct and face emotion recognition model for Live Class Monitoring System
 
 **Following conclusions can be made from project:**
 
-*	The CNN model gave us training accuracy of 76 % and validation accuracy of 66 %.
-*	A front-end model was successfully created using streamlit and run on a local webserver.
-*	Successfully deployed streamlit web app on Heroku that runs on a web server. 
+* The CNN model gave us training accuracy of 70 % and validation accuracy of 63 %.
+* The application is able to detect face location and predict the right expression while checking it on a local webcam.
+* A front-end model was successfully created using streamlit and run on a local webserver.
+* Successfully deployed streamlit web app on Heroku and streamlit share that runs on a web server. 
+* Through this model teachers can understand the students' perception during online classes and change the way of teaching if needed by understanding the students’ motive.
+
+
